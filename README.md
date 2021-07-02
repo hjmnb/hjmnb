@@ -7,6 +7,6 @@
 - 💬 I hate microsoft(macrohard) but now i have found strategies to block trash services.
 - 💬 I hate apple but i cannot get an advanced control over it.
 - 💬 I dont hate baidu now because i have a list of their services blocked.
-- 💬 站名速记法：好姐妹nb.github.io (
-- 💬 其实是因为hjmnb五个键在一起比较方便XD
+- 💬 站名速记法：**~~好姐妹~~**nb.github.io (
+- 💬 其实是因为**hjmnb**五个键在一起比较方便XD
 - 💬 资源主要以cdn形式发布，以便国内访问
